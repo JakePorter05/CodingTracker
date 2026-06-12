@@ -1,3 +1,5 @@
 <Solution>
+  <Project Path="CodingTracker.Data/CodingTracker.Data.csproj" />
+  <Project Path="CodingTracker.Test/CodingTracker.Test.csproj" />
   <Project Path="CodingTracker/CodingTracker.csproj" />
 </Solution>

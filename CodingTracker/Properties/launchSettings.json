@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CodingTracker": {
+      "commandName": "Project",
+      "workingDirectory": "F:\\5_cSharpAcad\\CodingTracker\\CodingTracker\\CodingTracker.csproj"
+    }
+  }
+}
